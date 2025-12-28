@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JvSPgvZ97mueR+X5Xd4cnCXq9VeAKn0tM+763v7gdpw=",
+  "Source": "ziraat_webapi",
+  "BasePath": "_content/ziraat_webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
